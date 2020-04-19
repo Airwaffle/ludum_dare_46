@@ -1,0 +1,21 @@
+- bakgrund
+- Poäng (1000 för de han vill ha, 200 för de andra, -200 för att bli nerspydd, 500 extra för extreme airtime, 50 extra för varje omspel.)
+- Webversion och leaderboard
+
+- space när inte håller barn ger ett svep (animation + hit) Bör ha cooldown. Göra vanlig fångst kollider mindre
+
+- Max och min på y movement 
+- Fixa så att det är lättare att plock upp barnet
+
+- Local highscore
+- Current score
+
+
+
+- Nyvaken i början
+- Ljudeffekter
+- casual inte zombie walk innan han tagit upp barnet
+
+- Ta bort gå upp och nedåt
+- Upp borde istället vara en "Preview up" knapp
+any button for restart
